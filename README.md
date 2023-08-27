@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivaramanraja98&label=Profile%20views&color=0e75b6&style=flat" alt="sivaramanraja98" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **MERN**
 
